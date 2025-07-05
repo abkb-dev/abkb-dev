@@ -1,34 +1,30 @@
 <h1 align="center">Hi 👋, I'm Adnan Baleshram</h1>
-<h3 align="center">Python | SQL | Exploring the Cloud Technologies</h3>
+<h3 align="center">Python&nbsp;|&nbsp;SQL&nbsp;|&nbsp;Exploring&nbsp;the&nbsp;Cloud&nbsp;Technologies</h3>
 
 - 🔭 I’m currently working on **Projects using Python and SQL**  
 - 🌱 I’m currently learning **the fundamentals of Cloud Computing (AWS / Azure)**  
-- 👯 I’m looking to collaborate on **beginner-friendly Python or cloud-based projects**  
-- 🤝 I’m looking for help with **understanding real-world cloud use cases and hands-on practice**  
+- 👯 I’m looking to collaborate on **beginner‑friendly Python or cloud‑based projects**  
+- 🤝 I’m looking for help with **understanding real‑world cloud use cases and hands‑on practice**  
 - 📫 How to reach me **abc746088@gmail.com**
 
----
-
-### Connect with me:
+<h3 align="left">Connect with me:</h3>
 
 <div align="left">
   <a href="https://linkedin.com/in/adnan-baleshram" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn badge" />
   </a>
   <a href="https://www.hackerrank.com/abc746088" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="HackerRank badge" />
   </a>
   <a href="https://www.leetcode.com/adnan_khalid" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode badge" />
   </a>
   <a href="mailto:abc746088@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail badge" />
   </a>
 </div>
 
----
-
-### Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -48,22 +44,17 @@
   </a>
 </p>
 
----
-
-### 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abkb-dev&locale=en&hide_title=false&layout=compact&card_width=320&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=abkb-dev&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abkb-dev&theme=dracula&hide_border=false" height="150" />
-</div>
-
----
-
-### 🐍 GitHub Contribution Snake:
-
-<br clear="both" />
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abkb-dev/abkb-dev/output/snake.svg" alt="Snake animation" />
+<!-- GitHub stats – Dracula theme -->
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abkb-dev&locale=en&hide_title=false&layout=compact&card_width=320&theme=dracula&hide_border=false" height="150" alt="Most Used Languages" />
 </p>
+
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abkb-dev&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="abkb-dev's GitHub Stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=abkb-dev&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
+</p>
+
+
