@@ -11,16 +11,16 @@
 
 <div align="left">
   <a href="https://linkedin.com/in/adnan-baleshram" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn badge" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
   <a href="https://www.hackerrank.com/abc746088" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="HackerRank badge" />
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
   <a href="https://www.leetcode.com/adnan_khalid" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode badge" />
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
   <a href="mailto:abc746088@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail badge" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
 </div>
 
@@ -44,15 +44,9 @@
   </a>
 </p>
 
-<!-- GitHub stats – Dracula theme -->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abkb-dev&locale=en&hide_title=false&layout=compact&card_width=320&theme=dracula&hide_border=false" height="150" alt="Most Used Languages" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abkb-dev&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="abkb-dev's GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=abkb-dev&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
-</p>
+<!-- GitHub Cards in one row -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abkb-dev&locale=en&hide_title=false&layout=compact&card_width=320&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abkb-dev&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abkb-dev&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
+</div>
