@@ -70,6 +70,15 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=abkb-dev&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
 </p>
 
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abkb-dev&show_icons=true&locale=en&layout=compact" alt="abkb-dev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abkb-dev&show_icons=true&text_color=050505&locale=en" alt="abkb-dev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abkb-dev&" alt="abkb-dev" /></p>
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
