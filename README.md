@@ -58,21 +58,6 @@
 
 <!-- GitHub stats – Dracula theme -->
 <h3 align="left">GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abkb-dev&locale=en&hide_title=false&layout=compact&card_width=320&theme=dracula&hide_border=false" height="150" alt="Most Used Languages" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abkb-dev&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="abkb-dev's GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=abkb-dev&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
-</p>
-
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abkb-dev&show_icons=true&locale=en&layout=compact" alt="abkb-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abkb-dev&show_icons=true&text_color=050505&locale=en" alt="abkb-dev" /></p>
