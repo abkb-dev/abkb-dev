@@ -58,11 +58,34 @@
 
 <!-- GitHub stats – Dracula theme -->
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abkb-dev&show_icons=true&locale=en&layout=compact" alt="abkb-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abkb-dev&show_icons=true&text_color=050505&locale=en" alt="abkb-dev" /></p>
+<!-- Top Languages -->
+<p>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=abkb-dev&show_icons=true&locale=en&layout=compact&theme=dracula"
+    alt="Top Languages"
+  />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abkb-dev&" alt="abkb-dev" /></p>
+<!-- Overall Stats -->
+<p>&nbsp;
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=abkb-dev&show_icons=true&locale=en&theme=dracula"
+    alt="GitHub Stats"
+  />
+</p>
+
+<!-- Streak Stats -->
+<p>
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=abkb-dev&theme=dracula"
+    alt="GitHub Streak"
+  />
+</p>
+
 
 <!-- Snake Game Repo View -->
 
