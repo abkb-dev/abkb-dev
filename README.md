@@ -60,6 +60,7 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <!-- Top Languages -->
+<!--
 <p>
   <img
     align="left"
@@ -67,6 +68,8 @@
     alt="Top Languages"
   />
 </p>
+-->
+
 
 <!-- Overall Stats -->
 <p>&nbsp;
