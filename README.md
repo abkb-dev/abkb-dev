@@ -72,6 +72,7 @@
 
 
 <!-- Overall Stats -->
+<!-- 
 <p>&nbsp;
   <img
     align="center"
@@ -79,6 +80,8 @@
     alt="GitHub Stats"
   />
 </p>
+-->
+
 
 <!-- Streak Stats -->
 <p>
