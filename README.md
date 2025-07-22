@@ -93,10 +93,11 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=abkb-dev&theme=dracula"
-    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com/?user=abkb-dev&theme=dracula"
+    alt="GitHub Streak"
   />
 </p>
+
 
 
 <!-- Snake Game Repo View -->
