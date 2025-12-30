@@ -26,37 +26,53 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
-  <span>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    </a>
-  </span>&nbsp;&nbsp;
-  
-  <span>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-    </a>
-  </span>&nbsp;&nbsp;
-  
-  <span>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-    </a>
-  </span>&nbsp;&nbsp;
-  
-  <span>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-    </a>
-  </span>&nbsp;&nbsp;
-  
-  <span>
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-      <img src="https://a0.awsstatic.com/main/images/logos/aws_smile-header-desktop-en-white_59x35.png" alt="AWS" width="50" height="35"/>
-    </a>
-  </span>
-</p>
+<div align="left">
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=3776AB&logoColor=white&style=for-the-badge" height="35" alt="Python badge" />
+  </a>&nbsp;
+
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&style=for-the-badge" height="35" alt="MySQL badge" />
+  </a>&nbsp;
+
+  <!-- NumPy -->
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=NumPy&logo=numpy&label=&color=013243&logoColor=white&style=for-the-badge" height="35" alt="NumPy badge" />
+  </a>&nbsp;
+
+  <!-- Pandas -->
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Pandas&logo=pandas&label=&color=150458&logoColor=white&style=for-the-badge" height="35" alt="Pandas badge" />
+  </a>&nbsp;
+
+  <!-- Matplotlib -->
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Matplotlib&logo=matplotlib&label=&color=11557C&logoColor=white&style=for-the-badge" height="35" alt="Matplotlib badge" />
+  </a>&nbsp;
+
+  <!-- Seaborn -->
+  <a href="https://seaborn.pydata.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Seaborn&logo=seaborn&label=&color=4C72B0&logoColor=white&style=for-the-badge" height="35" alt="Seaborn badge" />
+  </a>&nbsp;
+
+  <!-- BeautifulSoup -->
+  <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=BeautifulSoup&logo=beautifulsoup&label=&color=FF9900&logoColor=white&style=for-the-badge" height="35" alt="BeautifulSoup badge" />
+  </a>&nbsp;
+
+  <!-- Selenium -->
+  <a href="https://www.selenium.dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Selenium&logo=selenium&label=&color=43B02A&logoColor=white&style=for-the-badge" height="35" alt="Selenium badge" />
+  </a>&nbsp;
+
+  <!-- AWS -->
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=AWS&logo=amazon-aws&label=&color=232F3E&logoColor=white&style=for-the-badge" height="35" alt="AWS badge" />
+  </a>
+</div>
+
 
 
 
